@@ -57,7 +57,7 @@ y=1.5*x+2
 plt.plot(x,y,color='k',linestyle=':', marker='h',markersize=5, label='Jooniseis')
 
 plt.figure(facecolor='lightblue')
-plt.title("Joonise pealkiri")
+plt.title("Liblikas")
 plt.xlabel("x telg")
 plt.ylabel("y telg")
 plt.grid(True)
